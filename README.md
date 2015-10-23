@@ -1,4 +1,4 @@
 # Helloworld
 FirstTestRepo
 
-A repo for testing hithub features
+A repo for testing Github features
